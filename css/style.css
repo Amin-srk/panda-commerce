@@ -15,3 +15,23 @@
  .buy-now-btn{
      background-color: blue;
  }
+
+ .watch{
+     background-color: orange;
+ }
+ .bag{
+     background-color: orchid;
+ }
+ .shoes{
+     background-color: lightseagreen;
+ }
+ .watch, .bag, .shoes{
+     padding: 10px 20px;
+     border-radius: 5px;
+ }
+ .catagories h1{
+     color: white;
+ }
+ .catagories img{
+     width: 100px;
+ }
